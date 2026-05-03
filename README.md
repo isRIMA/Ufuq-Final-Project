@@ -1,16 +1,67 @@
-# React + Vite
+# Ufuq System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Description
 
-Currently, two official plugins are available:
+Ufuq is an adaptive educational system designed to identify children's dominant attention types and provide personalized learning experiences. The system analyzes whether a child learns better through visual or auditory methods, then adapts content accordingly to improve engagement and learning outcomes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 👩‍💻 Team Members
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Farah Alharbi – 2211245
+* Farah Muzaffer – 2210488
+* Shifa Albadri – 2115406
+* Hams Alshaikh – 2211184
+* Reema Alsalamh – 2116406
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📖 Introduction
+
+With the rapid growth of educational technology, the need for adaptive learning solutions has become increasingly important. Traditional learning tools often follow a one-size-fits-all approach, which does not effectively support the diverse ways children process information.
+
+Ufuq addresses this issue by focusing on identifying children's attention types through interactive and scientifically based assessments. By integrating principles from psychology with artificial intelligence, the system creates a personalized learning environment that adapts to each child's needs.
+
+This project contributes to the advancement of personalized education by offering a data-driven solution that enhances engagement while maintaining ethical research practices.
+
+---
+
+## ⚙️ How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/ufuq.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd ufuq
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the project
+
+```bash
+npm start
+```
+
+---
+
+## 🛠️ Technologies Used
+
+* Node.js
+* Express.js
+* [Add your technologies here: e.g., React, MongoDB, etc.]
+
+---
+
+## 🎯 Project Goal
+
+The goal of Ufuq is to enhance children's learning experiences by providing a smart, adaptive system that understands individual differences and delivers personalized educational content.
