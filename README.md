@@ -8,11 +8,11 @@ Ufuq is an adaptive educational system designed to identify children's dominant 
 
 ## 👩‍💻 Team Members
 
-* Farah Alharbi – 2211245
-* Farah Muzaffer – 2210488
-* Shifa Albadri – 2115406
-* Hams Alshaikh – 2211184
-* Reema Alsalamh – 2116406
+* Farah Alharbi 
+* Farah Muzaffer 
+* Shifa Albadri 
+* Hams Alshaikh 
+* Reema Alsalamh 
 
 ---
 
